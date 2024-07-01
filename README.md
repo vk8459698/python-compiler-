@@ -1,4 +1,4 @@
-cd complainiler;
+cd complaniler;
 
 u have to run python shell.py and then a basic terminal will open
 then u have to run this command  RUN("example.myopl") it will execute whatever it is written in the basic.myopl file
